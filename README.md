@@ -1,6 +1,6 @@
 # LumosPath
 
-LumosPath is a full-stack web application developed as part of the DSAC Round-1 Evaluation by **Team Shrishti** from Vasavi College of Engineering.  
+LumosPath is a full-stack web application developed as part of the Codenovate 2.0 Round-1 Evaluation by **Team Shrishti** from Vasavi College of Engineering.  
 It focuses on delivering a simple, efficient, and structured solution to a real-world problem through a clean UI and modular backend design.
 
 ---
